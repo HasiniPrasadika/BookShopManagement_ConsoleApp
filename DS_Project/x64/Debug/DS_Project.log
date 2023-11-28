@@ -1,0 +1,8 @@
+﻿  DS_Project.cpp
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\BookInfolinked_list.h(220,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\BookInfolinked_list.h(261,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\BookInfolinked_list.h(268,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\BookInfolinked_list.h(311,94): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\BookInfolinked_list.h(305,7): warning C4101: 'i': unreferenced local variable
+D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\DS_Project\Ordersqueue.h(66): warning C4715: 'OrderQueue::print': not all control paths return a value
+  DS_Project.vcxproj -> D:\semester 03 my\Data structures and algorithms\group project\DS_Project(Bookshop management system)\x64\Debug\DS_Project.exe
